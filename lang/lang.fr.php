@@ -460,6 +460,9 @@
 		'Delete this utility' =>
 		'Supprimer cet utilitaire',
 
+		'Dependencies' =>
+		'Dépendances',
+
 		'descending' =>
 		'descendant',
 
@@ -543,7 +546,7 @@
 
 		'Create another?' =>
 		'Créer un autre ?',
-		
+
 		'View all Entries' =>
 		'Voir toutes les entrées',
 
@@ -865,6 +868,9 @@
 		'No' =>
 		'Non',
 
+		'No dependencies' =>
+		'Aucune dépendance',
+
 		'None' =>
 		'Aucun',
 
@@ -961,6 +967,9 @@
 		'Personal Information' =>
 		'Informations personnelles',
 
+		'PHP Compatibility' =>
+		'Compatibilité PHP',
+
 		'Pigs' =>
 		'Cochons',
 
@@ -1000,7 +1009,6 @@
 		'Redirect to 404 page when the forbidden parameter is present' =>
 		'Rediriger à la page 404 quand le paramètre interdit est présent',
 
-
 		'Redirect to 404 page when the required parameter is not present' =>
 		'Rediriger à la page 404 quand le paramètre requis n\'est pas présent',
 
@@ -1024,6 +1032,12 @@
 
 		'Required URL Parameter <i>Optional</i>' =>
 		'Paramètre d’URL requis <i>Optionnel</i>',
+
+		'Requires PHP %s' =>
+		'Requiert PHP %s',
+
+		'requires Symphony %s' =>
+		'requiert Symphony %s',
 
 		'Root Path' =>
 		'Chemin de la racine',
