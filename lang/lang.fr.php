@@ -997,6 +997,9 @@
 		'Preferences saved.' =>
 		'Préférences enregistrées.',
 
+		'Preview' =>
+		'Prévisualiser',
+
 		'random' =>
 		'hasard',
 
@@ -1048,9 +1051,6 @@
 		'Save Changes' =>
 		'Enregistrer les modifications',
 
-		'View all Sections' =>
-		'Voir toutes les sections',
-
 		'Section created at %s.' =>
 		'Section crée à %s.',
 
@@ -1077,6 +1077,9 @@
 
 		'Set %s' =>
 		'Définir %s',
+
+		'Show Associations' =>
+		'Voir les associations',
 
 		'Show a maximum of %s results' =>
 		'Afficher un maximum de %s résultats',
@@ -1416,6 +1419,12 @@
 
 		'Version %s' =>
 		'Version %s',
+
+		'View all Sections' =>
+		'Voir toutes les sections',
+
+		'View Entries' =>
+		'Voir les entrées',
 
 		'Viewing %1$s - %2$s of %3$s entries' =>
 		'Voir les entrées de %1$s - %2$s à %3$s',
