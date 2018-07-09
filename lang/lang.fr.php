@@ -743,7 +743,7 @@
 		'Cette demande expirera dans 2 heures. Si vous n’avez pas demandé de nouveau mot de passe, veuillez ignorer cet email.',
 
 		'just now' =>
-		'à l’instant',
+		'l’instant',
 
 		'Label' =>
 		'Libellé',
