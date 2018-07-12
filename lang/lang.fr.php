@@ -460,6 +460,9 @@
 		'Delete this utility' =>
 		'Supprimer cet utilitaire',
 
+		'Dependencies' =>
+		'Dépendances',
+
 		'descending' =>
 		'descendant',
 
@@ -543,7 +546,7 @@
 
 		'Create another?' =>
 		'Créer un autre ?',
-		
+
 		'View all Entries' =>
 		'Voir toutes les entrées',
 
@@ -740,7 +743,7 @@
 		'Cette demande expirera dans 2 heures. Si vous n’avez pas demandé de nouveau mot de passe, veuillez ignorer cet email.',
 
 		'just now' =>
-		'à l’instant',
+		'l’instant',
 
 		'Label' =>
 		'Libellé',
@@ -865,6 +868,9 @@
 		'No' =>
 		'Non',
 
+		'No dependencies' =>
+		'Aucune dépendance',
+
 		'None' =>
 		'Aucun',
 
@@ -961,6 +967,9 @@
 		'Personal Information' =>
 		'Informations personnelles',
 
+		'PHP Compatibility' =>
+		'Compatibilité PHP',
+
 		'Pigs' =>
 		'Cochons',
 
@@ -988,6 +997,9 @@
 		'Preferences saved.' =>
 		'Préférences enregistrées.',
 
+		'Preview' =>
+		'Prévisualiser',
+
 		'random' =>
 		'hasard',
 
@@ -999,7 +1011,6 @@
 
 		'Redirect to 404 page when the forbidden parameter is present' =>
 		'Rediriger à la page 404 quand le paramètre interdit est présent',
-
 
 		'Redirect to 404 page when the required parameter is not present' =>
 		'Rediriger à la page 404 quand le paramètre requis n\'est pas présent',
@@ -1025,6 +1036,12 @@
 		'Required URL Parameter <i>Optional</i>' =>
 		'Paramètre d’URL requis <i>Optionnel</i>',
 
+		'Requires PHP %s' =>
+		'Requiert PHP %s',
+
+		'requires Symphony %s' =>
+		'requiert Symphony %s',
+
 		'Root Path' =>
 		'Chemin de la racine',
 
@@ -1033,9 +1050,6 @@
 
 		'Save Changes' =>
 		'Enregistrer les modifications',
-
-		'View all Sections' =>
-		'Voir toutes les sections',
 
 		'Section created at %s.' =>
 		'Section crée à %s.',
@@ -1063,6 +1077,9 @@
 
 		'Set %s' =>
 		'Définir %s',
+
+		'Show Associations' =>
+		'Voir les associations',
 
 		'Show a maximum of %s results' =>
 		'Afficher un maximum de %s résultats',
@@ -1402,6 +1419,12 @@
 
 		'Version %s' =>
 		'Version %s',
+
+		'View all Sections' =>
+		'Voir toutes les sections',
+
+		'View Entries' =>
+		'Voir les entrées',
 
 		'Viewing %1$s - %2$s of %3$s entries' =>
 		'Voir les entrées de %1$s - %2$s à %3$s',
